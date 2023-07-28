@@ -10,3 +10,4 @@ Description: In this project, we combine the Vigenere cipher and steganography t
 
 Project 3: Vigenere Cipher
 Description: This project focuses solely on text encryption and decryption using the Vigenere cipher. Users can input their text and a secret keyword for encryption, and the application will produce the ciphertext. Decryption requires the same keyword and ciphertext to retrieve the original text.
+
